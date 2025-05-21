@@ -19,7 +19,7 @@ Throughout my academic journey, I’ve gained hands-on experience using industry
 - 🐍 **Python scripting**
 
 I also have a foundational understanding of front-end web development and have worked with:  
-`HTML` · `CSS` · `JavaScript`
+`HTML` · `CSS` · `JavaScript` · `React.js`
 
 ---
 
